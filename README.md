@@ -13,7 +13,7 @@ These all functionalities and applications can result in lesser human effort and
 
 The project uses concepts of Natural Language Processing (NLP), Machine Learning, Deep Learning, Data Analysis, Boosting and Ensemble Machines to predict the unique set of questions.
 
-In order to achieve maximum accuracy after several testing on several models, it was taken into consideration that ideal model to predict the output of distinct question that a combined model of 5 different classifiers is to be used; with input of 28 different features obtained from a pair of questions. These 28 features are obtained by applying various string and string-vector manipulations and various concepts of NLP like string comparison distances,fuzzy features etc. The five models used are:
+In order to achieve maximum accuracy after several testing on several models, it was taken into consideration that ideal model to predict the output of distinct question that a combined model of 5 different classifiers is to be used; with input of 28 different features obtained from a pair of questions. These 28 features are obtained by applying various string and string-vector manipulations and features; and various concepts of NLP like string comparison distances,fuzzy features etc. The five models used are:
                     
                     I. XGBosst Classifier
                     II. Light GBM Classifier
@@ -29,7 +29,7 @@ There are 4 files in this project:
         
         I. data_preprocessing.py: To add 28 features used for predictions of a pair of different questions
         II. models.py: to create, train and store 5 above mentioned models
-        III. data_framer.py: To create ideal data frame for preprocessing and prediction from input single coulmned datframe of all                                   questions; To create single-columned dataframe of output file
+        III. data_framer.py: To create ideal data frame for preprocessing and prediction from input single columned datframe of all                                   questions; To create single-columned dataframe of output file
         IV questions_reducer.py: Combines functionality of all 3 above files with calcuating the final output of predictions; Storing                                     final result in output file: unique_questions.csv
         
         
