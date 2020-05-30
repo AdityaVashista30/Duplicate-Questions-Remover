@@ -11,7 +11,7 @@ The project can be applied in various places and organization in several applica
                 
 These all functionalities and applications can result in lesser human effort and more time savings by automating the process of literature review and segregation of large amount of textual data where there is high probability of having large number of similar and duplicate entries.
 
-The project uses concepts of Natural Language Processing (NLP), Machine Learning, Deep Learning, Boosting and Ensemble Machines to predict the unique set of questions.
+The project uses concepts of Natural Language Processing (NLP), Machine Learning, Deep Learning, Data Analysis, Boosting and Ensemble Machines to predict the unique set of questions.
 
 In order to achieve maximum accuracy after several testing on several models, it was taken into consideration that ideal ideal model to predict the output of distinct question that a combined model of 5 different classifiers is to be used.With input of 28 different features obtained from a pair of questions. These 28 features are obtained by applying various string and string-vector manipulations and various concepts of NLP like string comparison distances,fuzzy features etc. The five models used are:
                     
