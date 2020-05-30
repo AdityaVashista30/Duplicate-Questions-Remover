@@ -9,7 +9,7 @@ The project can be applied in various places and organization in several applica
                 >for filtering out large number of queries
                 >for filterring out similar reviews/comments on products and services
                 
-These all functionalities and applications can result in lesser human effort and more time savings by automating the process of literature review and segregation of large amount of textual data where there is high probability of having large number of similar and duplicate entries.
+These all functionalities and applications can result in lesser human effort and more time savings by automating the process of literature review and segregation of large amount of textual data into smaller set of unique data where there is high probability of having large number of similar and duplicate entries.
 
 The project uses concepts of Natural Language Processing (NLP), Machine Learning, Deep Learning, Data Analysis, Boosting and Ensemble Machines to predict the unique set of questions.
 
