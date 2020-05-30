@@ -51,7 +51,7 @@ Important Libraries to be pre-installed:
         14.catboost
         15.python-Levenshtein
         
-Along with thatwe need Word2vec mode.We download the GoogleNews-vectors-negative300.bin.gz binary and use Gensim’s load_Word2vec_format function to load it into memory. (1.5 GB compressed file: Actual size on loading (>3GB))
+Along with that is needed Word2vec mode. Download the GoogleNews-vectors-negative300.bin.gz binary and use Gensim’s load_Word2vec_format function to load it into memory. (1.5 GB compressed file: Actual size on loading (>3GB))
 
 EXTRA NOTES:
     
