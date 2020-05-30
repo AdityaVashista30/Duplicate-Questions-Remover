@@ -7,13 +7,13 @@ The project can be applied in various places and organization in several applica
                 >reviewing and obtaining set of questions asked related to a product/service on e-commerce website
                 >for finding out commonly asked questions on discussion forums and websites
                 >for filtering out large number of queries
-                >for filterring out similar reviews/comments on products and services
+                >for filtering out similar reviews/comments on products and services
                 
 These all functionalities and applications can result in lesser human effort and more time savings by automating the process of literature review and segregation of large amount of textual data into smaller set of unique data where there is high probability of having large number of similar and duplicate entries.
 
 The project uses concepts of Natural Language Processing (NLP), Machine Learning, Deep Learning, Data Analysis, Boosting and Ensemble Machines to predict the unique set of questions.
 
-In order to achieve maximum accuracy after several testing on several models, it was taken into consideration that ideal ideal model to predict the output of distinct question that a combined model of 5 different classifiers is to be used.With input of 28 different features obtained from a pair of questions. These 28 features are obtained by applying various string and string-vector manipulations and various concepts of NLP like string comparison distances,fuzzy features etc. The five models used are:
+In order to achieve maximum accuracy after several testing on several models, it was taken into consideration that ideal ideal model to predict the output of distinct question that a combined model of 5 different classifiers is to be used; with input of 28 different features obtained from a pair of questions. These 28 features are obtained by applying various string and string-vector manipulations and various concepts of NLP like string comparison distances,fuzzy features etc. The five models used are:
                     
                     I. XGBosst Classifier
                     II. Light GBM Classifier
