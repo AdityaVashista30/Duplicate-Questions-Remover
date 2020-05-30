@@ -53,3 +53,9 @@ Important Libraries to be pre-installed:
         
 Along with thatwe need Word2vec mode.We download the GoogleNews-vectors-negative300.bin.gz binary and use Gensim’s load_Word2vec_format function to load it into memory. (1.5 GB compressed file: Actual size on loading (>3GB))
 
+EXTRA NOTES:
+Pre processed data for training is stored in DataSset/training_data  in model_inputs.rar
+Original Data set download link is provided in DataSset/training_data
+Pre-trained models are present in \models
+Random forest model is compressed in rf_model.rar (For ease of uploading on Git)
+\DataSet contains sample.csv(file of 99 question) and its output csv file(having 37 questions) for reference
