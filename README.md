@@ -1,6 +1,6 @@
 # Duplicate-Questions-Remover
 
-This project is used to find out list of different unique questions from a large list of questions having many similar and duplicate questions. This problem is inspired from kaggle competition where we need to identify if pair of given Quora questions are similar/duplicate or not.
+This project is used to find out a list of different unique questions from a large list of questions having many similar and duplicate questions. This problem is inspired by Kaggle competition where we need to identify if a pair of given Quora questions are similar/duplicate or not.
 
 The project can be applied in various places and organization in several applications, for eg: 
                 
