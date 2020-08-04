@@ -40,7 +40,7 @@ Important Libraries to be pre-installed:
         3.Numpy
         4.NLTK
         5.Statics
-        6.Genism
+        6.Gensim
         7.Joblib
         8.Fuzzywuzzy
         9. Pyemd
